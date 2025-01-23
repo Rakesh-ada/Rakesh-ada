@@ -3,7 +3,6 @@
 <h3 align="left">A passionate developer from India</h3>
 
 
-🔭 I’m currently working on Amplify
 
 
 ## 🌐 Socials:
