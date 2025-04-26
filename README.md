@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Anime Developer">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHV6cnYybmZvbWttcHo3eXI2bjh5eThtdDNteG5mNngyMXg4eHlqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif" width="200" alt="Anime Developer">
 </p>
 
 <h2 align="center">
