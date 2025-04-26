@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/bijo-gif-2355069479619045926" width="600" alt="Anime Developer">
+  <div class="tenor-gif-embed" data-postid="2355069479619045926" data-share-method="host" data-aspect-ratio="1.85821" data-width="100%"><a href="https://tenor.com/view/bijo-gif-2355069479619045926">Bijo GIF</a>from <a href="https://tenor.com/search/bijo-gifs">Bijo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <h2 align="center">
