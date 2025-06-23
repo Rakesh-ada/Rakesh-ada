@@ -20,7 +20,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="25" alt="Cherry Blossom"> A Little About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cherry%20Blossom.png" width="25" alt="Cherry Blossom">
+ A Little About Me 
 </h3>
 
 <p align="center">
