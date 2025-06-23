@@ -89,7 +89,7 @@
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="25" alt="Trophy"> GitHub Trophies
+GitHub Trophies
 </h3>
 
 <div align="center">
