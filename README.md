@@ -1,6 +1,6 @@
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" width="25" alt="Swords">
-  Welcome to My World 
+  Welcome to My Github 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="25" alt="World">
 </h2>
 
@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="30" alt="Ninja">
-  "In a world of bugs and logic errors... one developer dares to dream!"
+  "Code with purpose, debug with patience, deploy with confidence."
 </h3>
 
 <h3 align="center">Hey there 👋! I'm <b>Rakesh Adak</b> 🇮🇳 — a passionate developer, an anime enthusiast, and a digital ninja 🥷 constantly pushing the limits of code</h3>
@@ -55,7 +55,7 @@
 
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" alt="Tools"> 
-  🛠️ Languages and Tools
+  Languages and Tools
 </h3>
 
 <p align="center">
