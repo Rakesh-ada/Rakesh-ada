@@ -11,7 +11,7 @@
 <h3 align="center">Hey there 👋! I'm <b>Rakesh Adak</b> 🇮🇳 — a passionate developer, an anime enthusiast, and a digital ninja 🥷 constantly pushing the limits of code</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDN5anQxZGtwcG04cXlmdWxiMTJ3d2o3cGk2dWJ3ZDU1M2YybG81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="280" alt="Coding Animation">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxwa2JvdXFpM3p0MGY0bjRyYjRvdjQ0ZDY0MDdvbjBvbTdzZWNscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OvkwyzJ2cSdy/giphy.gif" width="280" alt="Coding Animation">
 </p>
 
 ---
