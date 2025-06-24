@@ -40,7 +40,7 @@
   <a href="https://facebook.com/balaram.adak.790">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/rakesh-wc">
+  <a href="https://instagram.com/rakesh-eth">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linkedin.com/in/rak-esh-adak">
