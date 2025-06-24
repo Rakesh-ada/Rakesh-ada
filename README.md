@@ -72,6 +72,7 @@
 
 ![Rakesh-ada's Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
+![Rakesh-ada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ---
 
 <h3 align="center">
