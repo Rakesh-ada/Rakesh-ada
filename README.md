@@ -70,21 +70,7 @@
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" alt="Bar Chart"> GitHub Stats
-</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rakesh-ada&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats">
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rakesh-ada&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rakesh-ada&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</div>
+![Rakesh-ada's Stats](https://github-readme-stats.vercel.app/api?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ---
 
