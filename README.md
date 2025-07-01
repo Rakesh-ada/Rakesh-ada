@@ -75,12 +75,6 @@
 ![Rakesh-ada's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ---
 
-<h3 align="center">
-GitHub Trophies
-</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh-ada&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
 
 ---
