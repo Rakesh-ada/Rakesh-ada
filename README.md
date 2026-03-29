@@ -21,9 +21,9 @@
 </h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" alt="Laptop"> <b>The Developer Journey:</b> Currently pursuing Artificial Intelligence & Machine Learning (AIML), I thrive at the intersection of logic and innovation. My core focus lies in engineering robust backend systems and exploring the capabilities of AI agents.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="25" alt="Globe"> <b>Current Explorations:</b> I am actively building in the Web3 space—looking into smart contracts and real-world asset (RWA) tokenization—while also crafting seamless, cross-platform user experiences using Flutter.<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="25" alt="Wrench"> <b>Beyond the Code:</b> When I'm not pushing commits, you can find me customizing my Fedora Linux environment, diving into immersive open-world games, or taking inspiration from classic anime.
+<b>The Developer Journey:</b> Currently pursuing Artificial Intelligence & Machine Learning (AIML), I thrive at the intersection of logic and innovation. My core focus lies in engineering robust backend systems and exploring the capabilities of AI agents.<br><br>
+<b>Current Explorations:</b> I am actively building in the Web3 space—looking into smart contracts and real-world asset (RWA) tokenization—while also crafting seamless, cross-platform user experiences using Flutter.<br><br>
+<b>Beyond the Code:</b> When I'm not pushing commits, you can find me customizing my Fedora Linux environment, diving into immersive open-world games, or taking inspiration from classic anime.
 </p>
 
 <br>
