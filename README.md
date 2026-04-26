@@ -1,13 +1,3 @@
-
-
-
-
-<h2 align="center">
-  Welcome to My GitHub
-</h2>
-
----
-
 <h3 align="center">
   "Code with purpose, debug with patience, deploy with confidence."
 </h3>
