@@ -14,15 +14,17 @@
 
 <h3 align="center">About Me</h3>
 
-<p align="center">
+<h4>
 I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and spend most of my time learning backend development, data structures & algorithms, and AI-powered applications.
-<br><br>
+</h4>
 
-I enjoy building projects, experimenting with new technologies, and understanding how systems work behind the scenes. Most of the repositories here are things I've built while learning, participating in hackathons, or exploring new ideas.
-<br><br>
+<h4>
+I enjoy building projects, experimenting with new technologies, and understanding how systems work behind the scenes.
+</h4>
 
+<h4>
 Outside of coding, you'll probably find me tweaking my Fedora setup, watching anime, playing open-world games, or reading about AI and emerging technologies.
-</p>
+</h4>
 
 <br>
 
