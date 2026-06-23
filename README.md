@@ -12,7 +12,7 @@
 
 ---
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 <h4>
 I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and spend most of my time learning backend development.
@@ -36,7 +36,7 @@ Outside of coding, you'll probably find me tweaking watching anime, playing open
 
 ---
 
-<h2>Currently Learning</h2>
+<h3>Currently Learning</h3>
 
 <p>
 • Backend Development & System Design <br>
