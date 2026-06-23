@@ -29,10 +29,6 @@ Outside of coding, you'll probably find me tweaking watching anime, playing open
 <br>
 
 
-<p>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZyeWhoMTk2cGs2bHFpeXhndDBsaGlhbThhZnE0cTFhZ2s5bDMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eTuzu8xIEqdDfPu9J/giphy.gif" width="500" alt="Anime Inspiration">
-</p>
-
 
 <blockquote>
 <b>"A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else."</b><br>
@@ -51,37 +47,19 @@ Outside of coding, you'll probably find me tweaking watching anime, playing open
 
 ---
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="25" alt="Mobile Phone">
-  Let's Connect
-</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/rakeshadak08">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Rakesh75618663">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-</p>
-
----
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" alt="Tools">
+<h3>
   Tech Stack & Tools
 </h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <br>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
   <br>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Linux_Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -89,10 +67,9 @@ Outside of coding, you'll probably find me tweaking watching anime, playing open
 
 ---
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Rakesh Stats">
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-ada&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages">
 </p>
+
