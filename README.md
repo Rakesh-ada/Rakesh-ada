@@ -15,7 +15,7 @@
 <h3>About Me</h3>
 
 <h4>
-I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and spend most of my time learning backend development.
+I'm currently pursuing a degree in Artificial Intelligence and spend most of my time learning backend development.
 </h4>
 
 <h4>
@@ -23,7 +23,7 @@ I enjoy building projects, experimenting with new technologies, and understandin
 </h4>
 
 <h4>
-Outside of coding, you'll probably find me tweaking watching anime, playing open-world games, or reading about emerging technologies.
+Outside of coding, you'll probably find me watching anime, playing open-world games, or reading about technologies.
 </h4>
 
 <br>
