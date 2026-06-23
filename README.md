@@ -7,15 +7,15 @@
 </h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGxwa2JvdXFpM3p0MGY0bjRyYjRvdjQ0ZDY0MDdvbjBvbTdzZWNscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OvkwyzJ2cSdy/giphy.gif" width="280" alt="Coding Animation">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTdsMGs1dDFtbzZydmhyd2FnbnE3Z2VxbDI2ejZqd2h6bTlldnM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nyzOkZCdZAC5y/giphy.gif" width="350" alt="Coding Animation">
 </p>
 
 ---
 
-<h3 align="center">About Me</h3>
+<h2>About Me</h2>
 
 <h4>
-I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and spend most of my time learning backend development, data structures & algorithms, and AI-powered applications.
+I'm currently pursuing a degree in Artificial Intelligence & Machine Learning and spend most of my time learning backend development.
 </h4>
 
 <h4>
@@ -23,25 +23,26 @@ I enjoy building projects, experimenting with new technologies, and understandin
 </h4>
 
 <h4>
-Outside of coding, you'll probably find me tweaking my Fedora setup, watching anime, playing open-world games, or reading about AI and emerging technologies.
+Outside of coding, you'll probably find me tweaking watching anime, playing open-world games, or reading about emerging technologies.
 </h4>
 
 <br>
 
-<blockquote align="center">
-<b>"A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else."</b><br>
-<i>— Edward Elric</i> 🧪
-</blockquote>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpiazBmNXA1NXI1dDRidDh1MWpsMm81NTV2ZXV2aW44dnhpc2E2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10i8xVp7WmJrri/giphy.gif" width="280" alt="Anime Inspiration">
+<p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZyeWhoMTk2cGs2bHFpeXhndDBsaGlhbThhZnE0cTFhZ2s5bDMwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eTuzu8xIEqdDfPu9J/giphy.gif" width="500" alt="Anime Inspiration">
 </p>
+
+
+<blockquote>
+<b>"A lesson without pain is meaningless. That's because you can't gain something without sacrificing something else."</b><br>
+</blockquote>
 
 ---
 
-<h3 align="center">🚀 Currently Learning</h3>
+<h2>Currently Learning</h2>
 
-<p align="center">
+<p>
 • Backend Development & System Design <br>
 • Data Structures & Algorithms <br>
 • AI Agents & Automation Workflows <br>
